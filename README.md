@@ -13,9 +13,7 @@ O objetivo é reunir notas, reflexões e materiais sobre sua trajetória, suas c
 Servir como material de estudo e consulta para estudantes, pesquisadores e entusiastas da ciência da computação, destacando a relevância das contribuições de Dijkstra até os dias atuais.
 
 ## 🚀 Como usar
-- Navegue pelos arquivos `.md` para acessar as notas e reflexões.
-- Consulte a pasta `references/` para materiais adicionais.
-- Use este repositório como apoio em estudos, pesquisas ou projetos relacionados à história da computação.
+- Basta acessar o link
 
 ## 📄 Licença
 Este projeto está licenciado sob a [MIT License](LICENSE), permitindo uso livre para fins acadêmicos e pessoais.
